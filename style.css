@@ -1,0 +1,140 @@
+body{
+    overflow: hidden;
+    font-family: 'Poppins';
+}
+.list-div{
+    /* border: 1px solid red; */
+    width: 40%;
+    text-align: center;
+}
+.list{
+    display: flex;
+    text-decoration: none;
+ 
+   
+   
+}
+.list-item{
+    text-decoration: none;
+    margin: 20px;
+    list-style: none;
+    /* padding: 10px; */
+    font-size: 22px;
+}
+.navbar-container{
+    display: flex;
+}
+img{
+    margin: 20px;
+    width: 120px;
+    margin-left: 90px;
+    padding: 10px;
+}
+.button-group{
+    width: 30%;
+    /* border: 1px solid red; */
+    display: flex;
+    /* margin: 20px; */
+    justify-content: flex-end;
+}
+.img-div{
+    width: 30%;
+    /* border: 1px solid red; */
+}
+.search-icon{
+    padding: 10px;
+    margin: 20px;
+    
+}
+
+.button-div{
+  margin-right: 110px;
+  margin: 20px;
+  padding: 10px;
+}
+button{
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.hero-img{
+    width: 300px;
+    position: relative;
+    /* right: 750px; */
+    /* top: 50px; */
+    bottom: 450px;
+}
+
+.square-img{
+    width: 250px;
+    position: relative;
+    top: 220px;
+    left: 90px;
+}
+.globe-img{
+    width: 50px;
+    position: relative;
+    left: 400px;
+    bottom: 400px;
+
+}
+
+/* .star-img{
+    width: 50px;
+    position: relative;
+    left: 700px;
+  
+
+} */
+.hero-container{
+    display: flex;
+}
+
+.hero-container-left{
+    flex-basis: 40%;
+}
+.hero-container-right{
+     width: 50%;
+    /* border: 1px solid red; */
+    /* position: relative;
+    right: 300px;
+    top: 70px; */
+    flex-wrap: wrap;
+    margin-top: 20px;
+    height: auto;
+}
+h1{
+    font-size: 32px;
+    font-weight: 700;
+    width: 100%;
+}
+p{
+    font-size: 24px;
+    font-weight: 400;
+}
+.icon{
+    width: 30px;
+}
+.icons{
+    width: 80%;
+    margin: auto;
+}
+.hero-description{
+    text-align: center;
+    font-size: 16px;
+    width: 80%;
+    margin: auto;
+}
+.hero-heading{
+    font-size: 52px;
+}
+.div{
+    text-align: center;
+    margin-top: 40px;
+}
+.contact-heading{
+    text-align: center;
+    color: grey;
+    padding-top: 20px;
+}
