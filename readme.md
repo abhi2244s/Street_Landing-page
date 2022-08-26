@@ -15,7 +15,7 @@ _I am learning Full stack javascript Development_
 # Deployed Link
 [Netlify Link](https://street-style-landings-pages.netlify.app/)
 
-![STREET](/Street_landinng/street.png)
+![STREET](Street_landinng/street.png)
 
 
 
